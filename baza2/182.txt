@@ -1,0 +1,5 @@
+X111
+P³aszczyzny ISDN:
+1) P³aszczyzna u¿ytkownika U – zwi¹zana z przesy³anie wszelkiego rodzaju informacji
+2) P³aszczyzna steruj¹ca C – zwi¹zana z przesy³anie informacji steruj¹cych
+3) P³aszczyzna zarz¹dzaj¹ca M

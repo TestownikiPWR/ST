@@ -1,0 +1,6 @@
+X0010
+Do przekazania informacji  przez sieæ teleinformatyczn¹ stosuje siê PROTOKO£Y liniowe
+a) znakowe SDLC, X.25, bitowe BSC,
+b) okreœlaj¹ce sposób transmisji w 2-warstwie OSI,
+c) bitowe SDLC, HDLC, x.25, znakowe BSC,
+d) okreœlaj¹ce zbiór procedur sterowania w 1-warstwie OSI

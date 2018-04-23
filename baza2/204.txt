@@ -1,0 +1,6 @@
+X0001
+NEXT jest to:
+a)dostêp poœredni do sieci telekomunikacyjnej
+b)dostêp bezpoœredni do sieci telekomunikacyjnej
+c) Przenik zdalny 
+d) Przenik zblizny 

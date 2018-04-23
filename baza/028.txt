@@ -1,0 +1,4 @@
+X10
+Jak zmniejsza siê moc sygna³u z 10-krotnym wzrostem odleg³oœci odbiornika od nadajnika?
+-20dB
++20dB

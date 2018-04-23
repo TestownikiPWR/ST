@@ -1,0 +1,6 @@
+X1000
+FILT to:
+a) technika wykorzystuj¹ca œwiat³owód w magistralnej rozdzielczej sieci telekomunikacyjnej,
+b)protokó³ transmisyjny w sieci œwiat³owodowej,
+c) technika tworzenia sygna³u zbiorczego w sieci telekomunikacyjnej,
+d) jednostka w sieci œwiat³owodowej

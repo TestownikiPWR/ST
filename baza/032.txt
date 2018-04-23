@@ -1,0 +1,6 @@
+X0011
+#pierwotny/*podstawowy ISDN kod
+#(2B+D)
+*(30B+D)
+*(2B+D)
+#(30B+D)
