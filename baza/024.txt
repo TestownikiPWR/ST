@@ -1,6 +1,6 @@
 X0010
-Do przekazania informacji  przez sieæ teleinformatyczn¹ stosuje siê PROTOKO£Y liniowe
-znakowe SDLC, X.25, bitowe BSC,
-okreœlaj¹ce sposób transmisji w 2-warstwie OSI,
-bitowe SDLC, HDLC, x.25, znakowe BSC,
-okreœlaj¹ce zbiór procedur sterowania w 1-warstwie OSI
+Impuls synchronizacji pionowej:
+trwa przez piêæ linii w ka¿dym pó³obrazie
+trwa przez 25 linii w ka¿dym pó³obrazie
+jest poprzedzony impulsami wyrównawczymi	
+wystêpuje bezpoœrednio po impulsie wygaszania pionowego

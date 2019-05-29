@@ -1,6 +1,0 @@
-X0001
-W dziedzinie telekomunikacji zdecydowan¹ wiêkszoœæ przekazów dokonuje siê za pomoc¹
-a) znaków alfa-numerycznych, bajtów, strumieni cyfrowych,
-b) linii telefonicznych, kana³ami telewizyjnymi,
-c) torów kablowych miedzianych lub œwiat³owodowych,
-d) transmisji szeregowych, asynchronicznych, synchronicznych, izochronicznych,

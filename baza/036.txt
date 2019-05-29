@@ -1,5 +1,6 @@
-X1000
-Dopasuj standardy IEEE
-802.2 - LLC / 802.11 - Wireless LAN / 802.15 - Wireless PAN
-802.11 - LLC / 802.15 - Wireless LAN / 802.2 - Wireless PAN
-802.15 - LLC / 802.11 - Wireless PAN / 802.2 - Wireless LAN
+X0100
+Przyjêty w Europie analogowy system stereofoniczny w telewizji polega na:
+modulacji czêstotliwoœci noœnej fonii z³o¿onym sygna³em stereofonicznym
+modulacji czêstotliwoœci dodatkowej noœnej sygna³em kana³u P
+modulacji czêstotliwoœci dodatkowej noœnej sygna³em (L-P)/2	
+modulacji amplitudy dodoatkowej noœnej sygna³em (L-P)/2

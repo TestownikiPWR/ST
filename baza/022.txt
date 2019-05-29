@@ -1,6 +1,6 @@
-X0100
-Globalny ruchowy system dostêpu do us³ug multimedialnych GMM wykorzystuje jako sieci dostêpowe
-IRIDIUM
-GSM
-NMT
-GPS
+X0001
+Czêstotliwoœci 1 kHz odpowiada d³ugoœæ fali:
+300 m
+30 m
+3 m
+300 km

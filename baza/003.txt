@@ -1,6 +1,6 @@
-X0000
-Wybieranie numeru ab. B jest (do uzupe³nienia)
-informacja utrzymaniow¹
-elementem sygnalizacji liniowej
-elementem sygnalizacji rejestrowej
-informacja zarz¹dzaj¹c¹
+X0010
+Jednostka poziomu g³oœnosci jest
+son
+decybel
+fon
+paskal

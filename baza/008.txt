@@ -1,6 +1,6 @@
-X0010
-ATM jest technika
-bezpo³¹czeniow¹
-pakietow¹
-transmisji asynchronicznej
-po³¹czeniow¹
+X1000
+Izofona jest to:
+krzywa jednakowego poziomu g³oœnoœci
+krzywa jednakowego poziomu ciœnienia akustycznego
+krzywa jednakowego poziomu natê¿enia dŸwiêku
+krzywa jednakowego poziomu ha³asu

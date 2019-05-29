@@ -1,6 +1,0 @@
-X1000
-W dostêpie abonenckim IDSN nie wystêpuje interfejs.
-a) Z
-b) R
-c) T
-d) U

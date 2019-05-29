@@ -1,5 +1,0 @@
-X001
-Z jak¹ maksymaln¹ czêstotliwoœci¹ mo¿e transmitowaæ sygna³ w torze symetrycznym kat 6
-a) 50MHz,
-b) 600MHz,
-c) 250 MHz

@@ -1,5 +1,6 @@
-X001
-Z jak¹ maksymaln¹ czêstotliwoœci¹ mo¿e transmitowaæ sygna³ w torze symetrycznym kat 6 
-50MHz,
-600MHz,
-250 MHz
+X0010
+Maskowanie w systemie DAB polega na wykorzystaniu:
+kodowania kana³owego
+wielodrogowoœci propagacji
+w³aœciwoœci ucha ludzkiego
+w³aœciwoœci sygna³u skwantowanego

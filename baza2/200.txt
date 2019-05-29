@@ -1,6 +1,0 @@
-X0100
-Globalny ruchowy system dostêpu do us³ug multimedialnych GMM wykorzystuje jako sieci dostêpowe
-a) IRIDIUM
-b) GSM
-c) NMT
-d) GPS

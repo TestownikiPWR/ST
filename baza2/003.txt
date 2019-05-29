@@ -1,6 +1,0 @@
-X0010
-Jednostka poziomu g³oœnosci jest
-son
-decybel
-fon
-paskal

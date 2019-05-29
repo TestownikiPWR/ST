@@ -1,6 +1,6 @@
-X0100
-ADSL to
-analogowe symetryczne ³¹cze abonenckie
-asynchroniczne cyfrowe ³¹cze abonenckie - z angielskiego
-asynchroniczne ³¹cze dalekiego zasiêgu
-analogowa standardowa linia danych
+X0001
+W systemie DAB przep³ywnoœæ w kanale stereofonicznym wynosi:
+16kb/s
+64kb/s
+128kb/s
+256kb/s

@@ -1,6 +1,6 @@
-X1000
-Dostêp pierwotny w ISDN mo¿na opisaæ jako dostêp
-30B+D
-o przep³ywnoœci 12b-16kb/s
-o przep³ywnoœci rzêdu 1Mb/s
-20+D
+X0010
+Formant jest to:
+jedno z pasm czêstotliwoœci, w którym wystêpuj¹ minima energii widma akustycznego okreœlonego dŸwiêku,
+ró¿nica pomiêdzy szczytowym poziomem sygna³u a œredniim poziomem sygna³u,
+jedno z pasm czêstotliwoœci, w którym skupioona jest energia widma akustycznego okreœlonego dŸwiêku
+jedna z maksymalnych wartoœci energii widma dŸwiêku

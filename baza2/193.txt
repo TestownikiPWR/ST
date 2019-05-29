@@ -1,6 +1,0 @@
-X0100
-ADSL to
-a) analogowe symetryczne ³¹cze abonenckie
-b) asynchroniczne cyfrowe ³¹cze abonenckie - z angielskiego
-c) asynchroniczne ³¹cze dalekiego zasiêgu
-d) analogowa standardowa linia danych

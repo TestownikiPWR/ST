@@ -1,6 +1,6 @@
-X0010
-Co to jest FEXT
-dostêp poœredni do sieci telekomunikacyjnej
-dostêp bezpoœredni do sieci telekomunikacyjnej
-Przenik zdalny 
-Przenik zblizny 
+X0001
+Wektor w standardzie NICAM przesy³any jest:
+nie jest  przesy³any w ¿adnej postaci
+jako umieszczona w ramce sekwencja trzech dodatkowych bitów bez protekcji	
+jako umieszczona w ramce sekwencja trzech dodatkowych bitów i bitu parzystoœci
+przez modyfikacjê bitów parzystoœci grupy kodowej

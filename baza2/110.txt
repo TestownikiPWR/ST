@@ -1,6 +1,0 @@
-X0100
-Maksymalna odleg³oœæ terminali od szyny krótkiej i d³ugiej
-8 m
-10 m 
-20 m
-80 m

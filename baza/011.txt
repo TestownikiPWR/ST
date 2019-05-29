@@ -1,6 +1,6 @@
-X0010
-W celu uzyskania b.dobrej jakoœci transmisji g³osu w sieciach VoIP opóŸnienie transmisji
-powinno byœ porównywalne z jitterem
-nie powinno byæ wiêksze ni¿ 150us
-nie powinno byæ wiêksze ni¿ 150ms
-nie powinno byæ mniejsze ni¿ jitter
+X0100
+COFDM to wykorzystywana w DAB metoda:
+kodowania kana³owego z podzia³em czasowym
+kodowania kana³owego z podzia³em czêstotliwoœciowym
+kodowania Ÿród³owego
+kodowania protekcyjnego

@@ -1,6 +1,0 @@
-X0010
-Modulacja stosowana w radiodyfuzji na falach krótkich to:
-AM DSB  
-FM
-AM DSB S.C. 
-AM SSB

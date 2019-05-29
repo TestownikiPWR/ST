@@ -1,6 +1,6 @@
-X0001
-Do realizacji us³ug multimedialnych niezbêdne s¹
-telefony, telewizory, komputery, nadajniki, operatorzy
-standardy producenta, operatorzy, u¿ytkownicy
-infrastruktura telekomunikacyjna, u¿ytkownicy
-sieci 2.8MBps, kana³ zwrotny, programy(…..)
+X1000
+W systemie stereofonii z dodatkowym sygna³em pilotuj¹cym pomocniczy sygna³ stereofoniczny X(t) jest sygna³em wykorzystuj¹cym:
+modulacjê dwuwstêgow¹ AM z pe³n¹ fal¹ noœn¹
+modulacjê dwuwstêgow¹ AM ze st³umion¹ fal¹ noœn¹
+modulacjê jednowstêgow¹ AM z wstêg¹ górn¹
+modulacjê dwuwstêgow¹ FM

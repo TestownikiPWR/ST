@@ -1,6 +1,6 @@
-X1000
-FILT to:
-technika wykorzystuj¹ca œwiat³owód w magistralnej rozdzielczej sieci telekomunikacyjnej,
-protokó³ transmisyjny w sieci œwiat³owodowej,
-technika tworzenia sygna³u zbiorczego w sieci telekomunikacyjnej,
-jednostka w sieci œwiat³owodowej
+X0001
+MUSICAM to wykorzystywana w DAB metoda:
+kodowania kana³owego z podzia³em czasowym
+kodowania kana³owego z podzia³em czêstotliwoœciowym
+kodowania protekcyjnego
+kodowania Ÿród³owego
