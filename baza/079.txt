@@ -1,5 +1,5 @@
-X010
-Które z rozwi¹zañ œwiat³owodowych jest stosowane?
+X100
+KtÃ³re z rozwiÄ…zaÅ„ jest systemem dla linii Å›wiatÅ‚owodowych?
 FITL
 FTTB
 FTTH
