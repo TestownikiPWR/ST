@@ -1,5 +1,5 @@
-X0110
-Standardowa rozmowa telefoniczna w sieci PSTN wykrozystuje pasmo o szerokoúci:   
+X0010
+Standardowa rozmowa telefoniczna w sieci PSTN wykrozystuje pasmo o szeroko≈õci:   
 7 kHz
 3,4 kHz  
 3,1 kHz 
