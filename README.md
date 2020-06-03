@@ -2,7 +2,7 @@
 Testownik z Sieci Telekomunikacyjnych
 
 Wersja z 29.05.2019
-
+Dodane pytania z grupy B kolokwium z 2019
 **To jest sama baza i nie zawiera programu .exe z testownikiem**
 
 Należy go pobrać na przykład stąd
