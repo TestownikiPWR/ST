@@ -1,0 +1,6 @@
+X0010
+System świadczenia usług, gdzie “zminimalizowany jest czas nieplanowanych przerw w pracy systemu” to:
+obsługa sytuacji krytycznych
+gorąca rezerwa systemu
+wysoka dostępność systemu
+ciągła praca systemu

@@ -1,0 +1,7 @@
+X0100
+W sieciach DWDM, CDC jest skrótem od angielskich słów:
+Corporate Dimensional Classical
+Colorless Directionless Contentionless
+Colorless Dimensionless Contentionless 
+Corporate Directional Classical
+

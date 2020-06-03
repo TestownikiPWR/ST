@@ -1,0 +1,6 @@
+X0010
+Wzór opisujący średnie natężenie ruchu oferowanego przyjmuje postać:
+E=A*(1-B)
+B(t) = 1-F(t)
+A=λ*h
+A=λ/h

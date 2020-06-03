@@ -1,0 +1,6 @@
+X0001
+GNR jest definiowana jako:
+60 kolejnych minut w ciągu których średnia intensywność wywołań jest największa
+godzina, w której realizowanych jest najwięcej połączeń
+60 kolejnych minut w ciągu których średnie natężenie ruchu jest największe
+godzina, w której zarejestrowano maksymalną wartość natężenia ruchu w ciągu doby

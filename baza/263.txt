@@ -1,0 +1,6 @@
+X0001
+Celem Cyberbezpieczeństwa, żeby przesłane dane nie zostały zmienione, usunięte lub dodane, jest:
+Originality
+Integrity
+Encryption
+Authentication 

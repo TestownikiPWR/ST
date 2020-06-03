@@ -1,0 +1,7 @@
+X0010
+Jaką technikę planuje się zastosować w systemach 5G dla efektywniejszego wykorzystania zasobów radiowych dla transmisji danych użytkownika o zróżnicowanej szybkości transmisji (w szczególności mniejszych szybkości)? 
+Wirtualizację interfejsu radiowego 
+Skalowalną szerokość pasma i odstępy podnośnych OFDM (15 kHz, 30 kHz, 60 kHz, 120 kHz, 240 kHz, …) oraz mini szczeliny
+Massive MIMO 
+Łączenie pasm częstotliwości lub wykorzystywanie podpasm do realizacji różnych usług i o różnych szybkościach 
+

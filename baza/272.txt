@@ -1,0 +1,6 @@
+X0001
+W którym z systemów realizowane są procedury miękkiego przełączania pomiędzy stacjami bazowymi (soft handover)?
+GSM
+LTE
+LTE-A
+UMTS

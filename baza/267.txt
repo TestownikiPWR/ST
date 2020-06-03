@@ -1,0 +1,6 @@
+X0001
+Który z elementów architektury systemów komórkowych odpowiada za zarządzanie połączeniami głosowymi i transmisją danych?
+stacje ruchome 
+stacje bazowe
+sterowniki stacji bazowych
+węzły SGSN i SGW

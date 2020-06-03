@@ -1,0 +1,7 @@
+X1000
+Który z systemów komórkowych zaliczany jest do systemów drugiej generacji?
+IS95
+LTE
+NMT
+UMTS
+

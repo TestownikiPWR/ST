@@ -1,0 +1,7 @@
+X0100
+Która z wymienionych czynności nie należy do metody identyfikacji i zarządzania dostępem określonej jako AAA?
+Authentication 
+Auditing
+Authorization
+Accounting
+

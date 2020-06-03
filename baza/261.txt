@@ -1,0 +1,6 @@
+X0100
+“Telefonia” jest usługą należącą do grupy:
+usług przenoszenia
+teleusług
+usług dodatkowych
+usług wbudowanych

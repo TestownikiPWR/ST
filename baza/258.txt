@@ -1,0 +1,6 @@
+X0100
+Pojęcie to definiuje trzy podstawowe obszary: dostarczanie usług, zapewnianie usług, rozliczanie usług:
+TMN
+SMART TMN
+DCN
+ITSM

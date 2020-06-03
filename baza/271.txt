@@ -1,0 +1,6 @@
+X0001
+Jaką co najmniej przepustowość planuje się uzyskać w interfejsie radiowym w systemach 5G dla łącza w dół?
+> 100 Mb/s
+> 500 Mb/s
+> 750 Mb/s
+> 1000 Mb/s

@@ -1,0 +1,7 @@
+X1000
+W systemach telewizji kablowych transmisja w kablu koncentrycznym odbywa się w:
+paśmie dosyłowym i zwrotnym
+tylko w paśmie dosyłowym
+tylko w paśmie zwrotnym
+w paśmie 1 do 5 MHz
+

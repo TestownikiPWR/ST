@@ -1,0 +1,6 @@
+X0010
+Pasmo telefoniczne mieści się w zakresie
+300-7000 Hz
+0-3,1 kHz
+300-3400 Hz
+0-20000 Hz

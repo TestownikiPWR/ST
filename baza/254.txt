@@ -1,0 +1,7 @@
+X0100
+Ze względu na złożoność procesu realizowanego w sieci operatora można wyodrębnić następujące obszary działań:  Odbiór wybudowanych elementów sieci I przekazanie Ich do eksploatacji; Ewidencja zasobów sleci; Monitorowanie działania sieci I usuwanie awarii; Konserwacje I remonty; Raportowanie I analiza; Działania korygujące I zapobiegawcze:
+Budowa I udostępnianie sleci
+Utrzymanie I zarządzanie siecią
+Rozwój I zarządzanie produktami 
+Billing I obsługa płatności 
+

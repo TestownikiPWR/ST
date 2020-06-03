@@ -1,0 +1,6 @@
+X1000
+W modelu TMN i zgodnie z zaleceniem X.700 ITU-T funkcja związana z analizą natężenia ruchu w sieci, gdzie kontroli podlegają ustalone przez operatorów systemu wartości progowe (minimalne lub maksymalne) opisujące charakterystyki jakościowe wybranych fragmentów sieci np. obciążenie ruchowe wiązek łączy to:
+zarządzanie wydajnością
+zarządzanie konfiguracją 
+zarządzanie awariami
+zarządzanie naliczaniem opłat

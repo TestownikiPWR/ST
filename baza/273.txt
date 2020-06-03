@@ -1,0 +1,6 @@
+X0010
+W jakim zakresie częstotliwości (zakres 2) przewidziano pracę systemów 5G mmWave?
+6-90 GHz
+6-30 GHz
+24-52 GHz
+30-90 GHz

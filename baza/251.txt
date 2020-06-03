@@ -1,0 +1,7 @@
+X0100
+W technice ATM mamy do czynienia z komutacją:
+pakietów 
+komórek
+kanałów 
+etykiet
+

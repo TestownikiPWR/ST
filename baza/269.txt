@@ -1,0 +1,6 @@
+X0001
+Stosując protokół PPP, należy używać metody uwierzytelniania:
+EAP-SSID
+PAP
+Diffiego Hellmana
+CHAP

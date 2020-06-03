@@ -1,0 +1,6 @@
+X0100
+Standard zdalnego monitoringu sieci-umożliwiający dostarczenie statystyk na temat ruchu zarówno w warstwie sieciowej jak I aplikacyjnej, przy monitoringu w warstwach wyższych protokołu, tzn. powyżej warstwy MAC (ang. Medium Accesss Control), -umożliwiający prowadzenie obserwacji poza segmentem sieci, w którym znajduje się zarządca. -Którego sondy mogą, operować na wszystkich warstwach modelu modelu ISO/OSI, dzięki czemu Informują nie tylko o tym co dzieje się w sieci, ale także jakie aplikacje są odpowiedzialne za powodowanie ruchu sieciowego. -potrafi wskazać jakie protokoły I w jakim stopniu są wykorzystywane w sieci, a także którzy użytkownIcy korzystają z konkretnych aplikacji to:
+RMON1 
+RMON2 
+SMON
+SNMP

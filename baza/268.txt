@@ -1,0 +1,6 @@
+X0100
+Podstawowa organizacja procesu taryfikacji:-Identyfikacja klienta może nastąpić na podstawie fizycznego miejsca podłączenia, numeru telefonu, adresu IP, nazwy użytkownika, itp-Identyfikacja umożliwia przypisanie żądania I zdarzeń do danych klienta w bazie-Znając dane klienta system sprawdza czy można skorzystać z usługi, np. klient wykupił abonament, ma niezerowy stan konta (przedpłacone), nie ma blokady za nieopłacone rachunki Itp.-System taryfikacyjny, na podstawie ustaleń operatora I Innych danych (np. rodzaj abonamentu, pora dnia) odczytuje z tablicy odpowiednia taryfę. Powyższy opis określa:
+Generowanie faktury 
+żądanie usługi 
+użycie i silnik naliczania
+naliczenie opłaty

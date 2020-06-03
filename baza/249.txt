@@ -1,0 +1,6 @@
+X0100
+Przykładem sieci światłowodowej dostępowej jest:
+UMTS
+PON
+LTE
+GPS
